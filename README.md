@@ -56,4 +56,4 @@ streamlit
    - Click "Clear" to reset the fields.
 
 6. Try this application:
-   - Try this application via [this link.](https://krish-mini-projects-gpa-cgpa.streamlit.app)
+   - Try this application by [clicking here.](https://krish-mini-projects-gpa-cgpa.streamlit.app)
